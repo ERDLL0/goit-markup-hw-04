@@ -460,6 +460,7 @@ img {
 
 .portfolio-section li:hover .overlay,
 .portfolio-section li:focus .overlay {
+  transform: translateY(0);
   opacity: 1;
   pointer-events: auto;
 }
